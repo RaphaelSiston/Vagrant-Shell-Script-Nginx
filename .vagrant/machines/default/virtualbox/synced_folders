@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/raphaelsiston/Curso_vagrant/Projetos/Vagrant-Shell-Script-Nginx/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/raphaelsiston/Curso_vagrant/Projetos/Vagrant-Shell-Script-Nginx","disabled":false,"__vagrantfile":true}}}
